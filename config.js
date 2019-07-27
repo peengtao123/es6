@@ -9,7 +9,7 @@ var CONFIG = {
   sidebar_file: "sidebar.md",
 
   // where the docs are actually stored on github - so you can edit
-  base_url: "https://github.com/peengtao123/es6.git",
+  base_url: "https://github.com/peengtao123/es6/tree/master/docs",
 };
 
 // **************************
